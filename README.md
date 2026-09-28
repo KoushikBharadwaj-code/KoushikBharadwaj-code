@@ -137,23 +137,6 @@ A machine-learning project focused on predicting employee attrition and explorin
 
 `Arrays` `Strings` `Hash Tables` `Two Pointers` `Trees` `SQL` `Databases`
 
-### Recent Problems
-
-* Two Sum
-* Valid Parentheses
-* Valid Anagram
-* Valid Palindrome
-* Longest Substring Without Repeating Characters
-* Same Tree
-* Find the Index of the First Occurrence in a String
-* Maximum Nesting Depth of the Parentheses
-* Invalid Tweets
-* Article Views I
-* Department Top Three Salaries
-* Confirmation Rate
-* Managers with at Least 5 Direct Reports
-* Big Countries
-* Combine Two Tables
 
 🔗 **[View my LeetCode Profile →](https://leetcode.com/Koushik_Bharadwaj/)**
 
