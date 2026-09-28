@@ -1,148 +1,109 @@
 <div align="center">
 
-# 👋 Hey, I'm Koushik Bharadwaj S.
+# Koushik Bharadwaj S.
 
-### `CSE Student` • `Developer` • `Problem Solver` • `Builder`
+### `CSE @ SRMIST` · `Developer` · `Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Building+things+that+solve+real+problems.;Turning+ideas+into+code.;Learning.+Building.+Breaking.+Fixing.;One+project+at+a+time.">
+**Building things I wish existed.**
 
 <br>
 
-<a href="https://github.com/KoushikBharadwaj-code">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.linkedin.com/in/koushik-bharadwaj-65a528329/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://leetcode.com/Koushik_Bharadwaj/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
+<a href="https://github.com/KoushikBharadwaj-code">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Turning+ideas+into+working+software.;Building%2C+breaking%2C+fixing.;Learning+by+shipping+projects.">
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `whoami`
 
-```text
-Hey! I'm Koushik Bharadwaj S.
+I'm a **Computer Science student at SRM Institute of Science and Technology**.
 
-🎓 Computer Science & Engineering student
-💻 Passionate about software development
-🧠 Love solving programming & SQL problems
-⚡ Interested in building practical projects
-🚀 Always learning something new
+I like taking an idea, figuring out how to build it, and getting my hands dirty with the parts that don't work the first time.
 
-Current mindset:
-Learn → Build → Break → Debug → Improve → Repeat
-```
+Currently working with **Python, C/C++, JavaScript and SQL**, while exploring full-stack development, backend systems and new ways to turn ideas into usable products.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Currently Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,flutter,firebase" />
-</p>
-
----
-
-## 💻 What I Like Building
-
-```text
-                ┌───────────────────────┐
-                │        IDEAS          │
-                └───────────┬───────────┘
-                            ↓
-                ┌───────────────────────┐
-                │         CODE          │
-                └───────────┬───────────┘
-                            ↓
-                ┌───────────────────────┐
-                │        BUILD          │
-                └───────────┬───────────┘
-                            ↓
-                ┌───────────────────────┐
-                │        TEST           │
-                └───────────┬───────────┘
-                            ↓
-                ┌───────────────────────┐
-                │        SHIP 🚀        │
-                └───────────────────────┘
-```
-
-I enjoy working on projects that combine **software, problem-solving and real-world use cases**.
-
----
-
-## 🔥 Featured Projects
-
-> Check out my repositories for projects, experiments and things I'm currently building.
-
-### 🧠 NeuroAdapt
-
-A cognitive-adaptive learning platform designed to make digital learning more accessible for students with different learning needs.
-
-**Tech:** Flutter • Firebase • Hive • Graph-based learning • Text-to-Speech
-
----
-
-### 💳 Digital Wallet System
-
-A full-stack digital wallet application built to explore authentication, database design and transaction workflows.
-
-**Tech:** React • MySQL • JavaScript
-
----
-
-### 📊 Employee Attrition Prediction
-
-A machine-learning project focused on predicting employee attrition and exploring the factors associated with employee turnover.
-
-**Tech:** Python • Machine Learning • Data Analysis
-
----
-
-## 🧠 Problem Solving
-
-### LeetCode
+## `stack`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Problems%20Solved-16-00B8A9?style=for-the-badge&logo=leetcode&logoColor=white">
-<img src="https://img.shields.io/badge/Easy-12-2DB55D?style=for-the-badge">
-<img src="https://img.shields.io/badge/Medium-3-F79F1F?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hard-1-EF4747?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,fastapi,mysql,postgresql,firebase,git,github" />
 
 </div>
 
-### Topics I've Practiced
+---
 
-`Arrays` `Strings` `Hash Tables` `Two Pointers` `Trees` `SQL` `Databases`
+## `projects`
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 **[View my LeetCode Profile →](https://leetcode.com/Koushik_Bharadwaj/)**
+### 📊 Employee Attrition Prediction
+
+Machine learning project for predicting employee attrition and exploring the factors associated with employee turnover.
+
+`Python` `ML` `Data Analysis`
+
+<br>
+
+<a href="https://github.com/KoushikBharadwaj-code/employee_attrition_skb1">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💳 Digital Wallet System
+
+A full-stack digital wallet application built around authentication, database design and transaction workflows.
+
+`React` `JavaScript` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## `problem solving`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/16%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/12%20Easy-2DB55D?style=for-the-badge">
+<img src="https://img.shields.io/badge/3%20Medium-F0A500?style=for-the-badge">
+<img src="https://img.shields.io/badge/1%20Hard-EF4444?style=for-the-badge">
+
+<br><br>
+
+`Python` · `MySQL` · `Arrays` · `Strings` · `Hash Tables` · `Two Pointers` · `Trees`
+
+<br><br>
+
+<a href="https://leetcode.com/Koushik_Bharadwaj/">
+<img src="https://img.shields.io/badge/LeetCode%20Profile-Visit%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## `github`
 
 <div align="center">
 
@@ -150,11 +111,7 @@ A machine-learning project focused on predicting employee attrition and explorin
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikBharadwaj-code&layout=compact&theme=tokyonight&hide_border=true">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=KoushikBharadwaj-code&theme=tokyonight&hide_border=true">
 
@@ -162,86 +119,25 @@ A machine-learning project focused on predicting employee attrition and explorin
 
 ---
 
-## 📈 Contribution Graph
+## `currently`
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```diff
-+ Improving Python
-+ Strengthening C & C++
-+ Data Structures & Algorithms
-+ SQL & Database Concepts
-+ JavaScript Development
-+ Full-Stack Development
-+ Building Real-World Projects
-+ Participating in Hackathons
+```text
+building      full-stack projects
+learning      backend + DSA
+experimenting new tools & ideas
+competing     hackathons
 ```
 
 ---
 
-## ⚡ Developer Mode
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Koushik Bharadwaj"
-        self.languages = [
-            "Python",
-            "C",
-            "C++",
-            "JavaScript",
-            "HTML",
-            "CSS",
-            "MySQL"
-        ]
-        self.goal = "Build useful things"
-
-    def learn(self):
-        return "Something new every day"
-
-    def build(self):
-        return "Turn ideas into working software"
-
-    def repeat(self):
-        while True:
-            self.learn()
-            self.build()
-
-
-me = Developer()
-me.repeat()
-```
-
----
-
-## 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/KoushikBharadwaj-code">
-<img src="https://img.shields.io/badge/GitHub-KoushikBharadwaj--code-181717?style=for-the-badge&logo=github">
-</a>
+### building > talking about building
 
-<a href="https://leetcode.com/Koushik_Bharadwaj/">
-<img src="https://img.shields.io/badge/LeetCode-Koushik__Bharadwaj-FFA116?style=for-the-badge&logo=leetcode">
-</a>
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-### 💭 `Code. Build. Learn. Repeat.`
-
-⭐ Thanks for stopping by!
+<a href="https://github.com/KoushikBharadwaj-code">GitHub</a>
+ ·  <a href="https://www.linkedin.com/in/koushik-bharadwaj-65a528329/">LinkedIn</a>
+ ·  <a href="https://leetcode.com/Koushik_Bharadwaj/">LeetCode</a>
 
 </div>
