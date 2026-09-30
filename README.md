@@ -49,7 +49,6 @@ Responsive replica with a dynamic video grid, collapsible sidebar, and sticky he
 
 🥈 **2nd Place — Code Red Hackathon** — built LOOP, a healthcare care-gap closure platform
 🌍 **Global Rank 345/1,349 — HackerRank Orchestrate 2026** — built and submitted an AI Agent
-🥇 **1st Prize — TN State Level Abacus Competition** (2016)
 
 ---
 
